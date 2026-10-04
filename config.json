@@ -1,0 +1,5 @@
+{
+  "project": "TOOLMENT",
+  "db_path": "db/data.db",
+  "log_path": "logs/TOOLMENT.log"
+}
